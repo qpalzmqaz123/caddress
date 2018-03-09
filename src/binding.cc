@@ -1,7 +1,5 @@
 #include <node.h>
-#include <dlfcn.h>
 #include <string.h>
-#include <ffi.h>
 
 namespace caddress {
 
