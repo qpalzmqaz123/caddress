@@ -1,0 +1,22 @@
+{
+  "name": "caddress",
+  "version": "1.0.0",
+  "description": "get buffer address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "buffer",
+    "address",
+    "pointer",
+    "c",
+    "caddress"
+  ],
+  "author": "wangqj",
+  "license": "ISC"
+}
